@@ -1,0 +1,59 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:700,300,300italic);
+.col{
+    text-align: center;
+}
+footer {
+	background-color:black;
+    height: 25%;
+    width: 100%;
+    color: white;
+    padding: 15px;
+    bottom: 0;  
+}
+.cabezera{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    background-color: #1A1A1A;
+}
+img{
+    width: 50px; height: 50px;
+}
+.con{
+    display: grid;
+        grid-template-columns: 1fr 2fr 1fr;
+       
+}
+
+.ab{
+    text-align: center;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.bc{
+    text-align: center;
+    margin-left: 15px;
+    margin-right: 15px;
+    background-color: #C8F1FD;
+}
+.cd{
+    text-align: center;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+body{width:100%;}
+p{
+    text-align: justify;
+}
+h6{
+    text-align: center;
+}
+#results{
+	color: #990000;
+	font-size: 1em;
+	margin-left: 20px;
+}
+span.finded{
+	background: #F00;
+}
+
